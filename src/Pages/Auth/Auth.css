@@ -1,0 +1,9 @@
+.form-auth {
+    margin: 10% 30%;
+}
+
+.submit-auth {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
