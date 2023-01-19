@@ -1,9 +1,9 @@
-import axios from "axios";
-import { useState } from "react";
-import { useNavigate } from "react-router-dom";
+import axios from 'axios'
+import { useState } from 'react'
+import { useNavigate } from 'react-router-dom'
 
 export default function AuthUser() {
-    const API_URL = 'http://94.74.86.174:8080/api';
+    const API_URL = 'http://94.74.86.174:8080/api'
     
     const navigate = useNavigate()
 
